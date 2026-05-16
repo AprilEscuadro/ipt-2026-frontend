@@ -246,3 +246,8 @@ This frontend uses `withCredentials: true` for login/refresh/revoke, but the bac
 ```bash
 npm test
 ```
+
+## 🚀 Live Demo
+- **Frontend:** https://ipt-2026-frontend-ktmy.onrender.com
+- **Backend API:** https://ipt-2026-backend-gbbc.onrender.com
+- **API Docs:** https://ipt-2026-backend-gbbc.onrender.com/api-docs
