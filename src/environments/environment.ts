@@ -1,4 +1,4 @@
 export const environment = {
-    production: true,
+    production: false,
     apiUrl: 'https://ipt-2026-backend-gbbc.onrender.com'
 };
