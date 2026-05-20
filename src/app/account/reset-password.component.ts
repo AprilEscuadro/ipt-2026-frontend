@@ -16,6 +16,7 @@ enum TokenStatus {
 export class ResetPasswordComponent implements OnInit {
     TokenStatus = TokenStatus;
     tokenStatus = TokenStatus.Validating;
+    status = 'validating';
     token?: string;
     form!: FormGroup;
     loading = false;
